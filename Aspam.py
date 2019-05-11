@@ -14,11 +14,11 @@ except ModuleNotFoundError:
 	exit()
 
 banner=("""\033[1;36m
-     _  _               ____          ____       _________
-   _| || |_           /        \      /       /     |                |        \033[1;32mSEPAM ESEMES (UPDATE)\033[1;36m
-  |_  ..  _|        /     ,      \  /       /       |       |        |
-  |_      _|       /     / \      '        /        |       |        |         \033[1;31mContact=>https://facebook.com/Mas Al voltHz[1;36m
-    |_||_|       /___/     \_____/           |_________|         \033[1;31mGithub=>https://github.com/MrAinitialo
+     _  _            ____     ____      _________
+   _| || |_         /    \   /   /     |        |        \033[1;32mSEPAM ESEMES (UPDATE)\033[1;36m
+  |_  ..  _|       /      \ /   /      |        |         \033[1;31mMilik Ainitial ft Z-vector bin Erik Gayn>Semarang Crew[1;36m
+  |_      _|      /   / \  '   /       |        |         \033[1;31mContact=>https://facebook.com/Mas Al voltHz[1;36m
+    |_||_|       /___/   \____/        |________|         \033[1;31mGithub=>https://github.com/MrAinitial[1;36m
 """)
 
 
