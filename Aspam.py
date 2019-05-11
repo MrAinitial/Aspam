@@ -42,4 +42,4 @@ jobs = []
 for x in range(tot):
     jobs.append(x)
 p=ThreadPool(10)
-p.map(main,jobs)d(x)
+
