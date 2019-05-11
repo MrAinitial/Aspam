@@ -22,9 +22,9 @@ print("""%s
 			SPAM CALL MASSAL v.3.0%s
  ,_     _‚
  |\\\___//|	%sAuthor: A'initial%s
- |=6   6=|	%sContact: +6281390222593%s
- \=._Y_.=/	%sPartner: Mr.XiD feat Mr.Fanx52 bin Mr.D1CK%s
-  )  `  (    ,	%sTEAM: JATIM BLACKHAT%s
+ |=6   6=|	%sContact: +6285101970588%s
+ \=._Y_.=/	%sPartner: Z-vector>ErikGayn>PakPung>Ahmad R%s
+  )  `  (    ,	%sTEAM: SEMARANG CREW%s
  /       \  ((
  |       |   ))
 /| |   | |\_//	%sMASUKAN NOMOR DENGAN "62" (EX: 628XXXXXX)%s
