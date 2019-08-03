@@ -46,7 +46,7 @@ try:
 	for i in range(jlmh):
 		print("[!] Wait Asw :'V...")
 		idk=("challengeID")
-		r1 = requests.post('https://api.grab.com/grabid/v1/phone/otp',data=dt1)
+		r1 = requests.post('https://www.tokocash.com/oauth/otp',data=dt1)
 		r2 = requests.post('https://api.grab.com/grabid/v1/phone/otp',data=dt2)
 		r3 = requests.post('https://api.grab.com/grabid/v1/phone/otp',data=dt3)
 		if str(idk) in str(r1.text):
